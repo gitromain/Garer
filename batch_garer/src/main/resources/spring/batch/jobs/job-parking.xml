@@ -6,7 +6,7 @@
 		http://www.springframework.org/schema/beans 
 		http://www.springframework.org/schema/beans/spring-beans-3.2.xsd">
 
-	<bean id="parking" class="com.mkyong.model.Parking" scope="prototype" />
+	<bean id="parking" class="com.garer.model.Parking" scope="prototype" />
 
 	<batch:job id="parkingJob">
 		<batch:step id="step1">
