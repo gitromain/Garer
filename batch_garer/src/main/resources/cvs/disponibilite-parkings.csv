@@ -1,0 +1,26 @@
+Nom parking;Adresse;Ville;État;Places disponibles;Capacité max;Date de mise à jour;Type;Identifiant;Coordonnées géo;Affichage panneaux
+Rihour-Printemps;Place Rihour;Lille;FERME;280;300;2017-05-31T00:04:00+02:00;Parking;LIL0012;50.6354319756, 3.06136225599;FERME
+Mac Arthur Glen (Lannoy);Rue Charles Watteeuw;Roubaix;;11;490;;Parking;RBX0002;50.6909732431, 3.18123413986;
+Republique;Place de la République;Lille;OUVERT;215;203;2017-05-31T00:04:00+02:00;Parking;LIL0001;50.6310274353, 3.06272406078;205
+Grand Place;Place du Général de Gaulle;Lille;OUVERT;281;342;2017-05-31T00:04:00+02:00;Parking;LIL0011;50.6371109095, 3.06363468818;280
+Liberté;Façade de l'Esplanade;Lille;FERME;1000;525;2017-05-31T00:04:00+02:00;Parking;LIL0015;50.638697419, 3.05074395147;FERME
+Miss Cavell;Avenue Allende;Tourcoing;ABONNES;149;750;2017-05-31T00:04:00+02:00;Parking;TCG0002;50.722539542, 3.16486874679;ABONNES
+Triolo;Avenue Paul Langevin;Villeneuve d'Ascq;Information non disponible;0;1400;2017-05-31T00:04:00+02:00;Parking;VAQ0001;50.6142820857, 3.13841270859;Information non disponible
+Les Tanneurs;Rue du Molinel;Lille;OUVERT;376;520;2017-05-31T00:04:00+02:00;Parking;LIL0003;50.6342569503, 3.06723497621;375
+Grand Palais;Boulevard des Citées Unies;Lille;OUVERT;972;1219;2017-05-31T00:04:00+02:00;Parking;LIL0004;50.6314806779, 3.07860110232;970
+Gare Lille Flandres;Rue de Tournai;Lille;OUVERT;167;376;2017-05-31T00:04:00+02:00;Parking;LIL0005;50.6348364553, 3.07243273529;165
+Tours;Boulevard de Turin;Lille;OUVERT;62;250;2017-05-31T00:04:00+02:00;Parking;LIL0007;50.6387887034, 3.07667993131;60
+Bethune-Lafayette;6 rue de la Rivière;Lille;OUVERT;375;595;2017-05-31T00:04:00+02:00;Parking;LIL0013;50.6341410129, 3.06505903476;375
+Nouveau Siecle;19 place Mendès France;Lille;OUVERT;446;940;2017-05-31T00:04:00+02:00;Parking;LIL0014;50.6373054541, 3.05939676782;445
+Mac Arthur Glen (Gambetta);Rue Charles Watteeuw;Roubaix;;11;325;;Parking;RBX0003;50.6909513379, 3.17949017413;
+Hotel De Ville;Rue de la Bienfaisance;Tourcoing;FERME;187;3000;2017-05-31T00:04:00+02:00;Parking;TCG0001;50.7243454275, 3.15717434409;FERME
+4cantons;Avenue Pointcaré;Villeneuve d'Ascq;OUVERT;1940;2000;2017-05-31T00:04:00+02:00;Parking;VAQ0002;50.6046230363, 3.13817649256;1940
+Gare Lille Europe;Avenue de Cologne;Lille;OUVERT;238;450;2017-05-31T00:04:00+02:00;Parking;LIL0008;50.6397696897, 3.0759704967;235
+Opera;Avenue Carnot;Lille;OUVERT;404;433;2017-05-31T00:04:00+02:00;Parking;LIL0009;50.6393046774, 3.06654842199;400
+Petit Paradis;Façade Esplanade;Lille;FERME;289;293;2017-05-31T00:04:00+02:00;Parking;LIL0016;50.6446366989, 3.0497335757;FERME
+Plaza;Rue Nationale;Lille;OUVERT;108;300;2017-05-31T00:04:00+02:00;Parking;LIL0002;50.6351218567, 3.05833428923;105
+Euralille;164 Avenue Willy Brandt;Lille;OUVERT;2063;2500;2017-05-31T00:04:00+02:00;Parking;LIL0006;50.6368033009, 3.07307121099;2060
+Vieux Lille;Avenue du Peuple Belge;Lille;OUVERT;126;245;2017-05-31T00:04:00+02:00;Parking;LIL0010;50.6416000368, 3.06406951451;125
+Mac Arthur Glen (Churchill);Rue Charles Watteeuw;Roubaix;;11;200;;Parking;RBX0001;50.6893384569, 3.17887534423;
+St Christophe;Rue des Anges;Tourcoing;OUVERT;693;750;2017-05-31T00:04:00+02:00;Parking;TCG0003;50.7197995917, 3.15638066398;693
+Lespres;Boulevard de l'Ouest;Villeneuve d'Ascq;Information non disponible;0;1000;2017-05-31T00:04:00+02:00;Parking;VAQ0003;50.6492155089, 3.12420279836;Information non disponible
