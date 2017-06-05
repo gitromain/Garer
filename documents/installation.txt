@@ -1,0 +1,9 @@
+[INSTALLATION]
+1/ Le projet
+-> Cloner le projet
+-> Importer le projet via Eclipse
+-> Convertir le projet en projet Maven
+
+2/ La BDD
+-> Créer une BDD (MySQL pour le moment)
+-> Créer la table parking à l'aide du script situé dans le projet : src\main\resources\script\parking.sql

@@ -1,0 +1,4 @@
+[TODO]
+ -> Automatisation de l'intégration du fichier
+ -> erreur lorsque les champs capcite/nombre places du csv sont vides.
+ -> Utiliser un Date sur la date de mise à jour
